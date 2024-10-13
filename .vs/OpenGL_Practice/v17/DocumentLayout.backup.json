@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Shaders\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|solutionrelative:Shaders\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Libaries\\include\\glm\\detail\\glm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|solutionrelative:Libaries\\include\\glm\\detail\\glm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Shaders\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|solutionrelative:Shaders\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05A3BBF6-7AA9-4E67-9B1C-38FF087A7BEE}|OpenGL_Practice.vcxproj|C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "glm.cpp",
+              "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Libaries\\include\\glm\\detail\\glm.cpp",
+              "RelativeDocumentMoniker": "Libaries\\include\\glm\\detail\\glm.cpp",
+              "ToolTip": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Libaries\\include\\glm\\detail\\glm.cpp",
+              "RelativeToolTip": "Libaries\\include\\glm\\detail\\glm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T02:57:54.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Shader.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Shader.cpp",
               "RelativeDocumentMoniker": "Shader.cpp",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Shader.cpp",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-12T20:53:06.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T20:53:06.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Shader.hpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Shader.hpp",
               "RelativeDocumentMoniker": "Shader.hpp",
@@ -59,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "default.frag",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Shaders\\default.frag",
               "RelativeDocumentMoniker": "Shaders\\default.frag",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "Shaders\\default.frag",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-10T21:21:13.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T21:21:13.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "default.vert",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\Shaders\\default.vert",
               "RelativeDocumentMoniker": "Shaders\\default.vert",
@@ -80,18 +95,17 @@
               "RelativeToolTip": "Shaders\\default.vert",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-10T21:19:35.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T21:19:35.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\HR-PC\\source\\repos\\OpenGL_Practice\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-10T13:35:57.483Z",
               "EditorCaption": ""

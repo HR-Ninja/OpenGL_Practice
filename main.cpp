@@ -203,7 +203,10 @@ void keyCallBack(GLFWwindow* window, int key, int scancode, int action, int mods
 // glfw: whenever the window size changed (by OS or user resize) this callback function executes
 void framebufferSizeCallback(GLFWwindow* window, int width, int height)
 {
-    // make sure the viewport matches the new window dimensions; note that width and 
+    // Avoid division by zero
+    if (height == 0) height = 1;
+
+    // Set the viewport to cover the new window size
     glViewport(0, 0, width, height);
 }
 
