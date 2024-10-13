@@ -156,6 +156,7 @@
     <ClInclude Include="Libaries\include\glfw3.h" />
     <ClInclude Include="Libaries\include\glfw3native.h" />
     <ClInclude Include="Libaries\include\khrplatform.h" />
+    <ClInclude Include="Libaries\include\stb_image.h" />
     <ClInclude Include="Shader.hpp" />
   </ItemGroup>
   <ItemGroup>
@@ -164,6 +165,10 @@
   <ItemGroup>
     <None Include="Shaders\default.frag" />
     <None Include="Shaders\default.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\container.jpg" />
+    <Image Include="Resources\wall.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
